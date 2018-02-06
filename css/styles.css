@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600");
 @import "reset.css";
 @import "globals.css";
-@import "header style.css";
+@import "header.css";
+@import "main.css";
+@import "footer.css";
