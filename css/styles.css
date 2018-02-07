@@ -2,5 +2,6 @@
 @import "reset.css";
 @import "globals.css";
 @import "header.css";
-@import "feed.css";
 @import "footer.css";
+@import "feed.css";
+@import "mobile.css";
